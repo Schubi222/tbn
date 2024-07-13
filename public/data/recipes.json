@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Salad",
+    "description": "Its gras",
+    "ingredients": [
+      {
+        "name": "Salad",
+        "quantity": 5,
+        "unit": "kg"
+      }
+    ],
+    "portions": 5
+  }
+]
